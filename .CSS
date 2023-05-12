@@ -6,7 +6,7 @@
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: black;
-  background-color: black;
+  background-color: #000000;
 }
 .container {
   max-width: 50rem;
@@ -74,7 +74,7 @@ button {
   font-size: 2rem;
   margin: 0px auto;
   display: block;
-  color: wite;
+  color: white;
   padding: 0.5rem 0.8rem;
   border: 1px solid white;
   background-color: #023de3;
