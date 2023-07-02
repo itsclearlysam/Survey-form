@@ -6,7 +6,7 @@
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: black;
-  background-color: #000000;
+  background-color: #C0C0C0;
 }
 .container {
   max-width: 50rem;
@@ -17,7 +17,7 @@ body {
 .main-heading {
   font-size: 4rem;
   margin: 2rem 0rem 1rem;
-  color: white;
+  color: black;
   text-align: center;
 }
 /* form section */
